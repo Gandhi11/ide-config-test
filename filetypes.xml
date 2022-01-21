@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="REVISION" type="AUTO_DETECTED" />
+      <mapping pattern="WishesServiceProvider" type="AUTO_DETECTED" />
+      <mapping pattern="artisan" type="AUTO_DETECTED" />
+      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-exolnet" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="exolnet" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
